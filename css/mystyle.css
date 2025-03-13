@@ -114,9 +114,9 @@ border-radius: 10px;
 transition: transform 0.3s ease-in-out;
 cursor: pointer;
 }
-.image-box img:hover{
-    transform: scale(1.1); /* Aumenta el tamaño un 20% */
-}
+/* .image-box img:hover{
+    transform: scale(1.1); /* Aumenta el tamaño un 20% 
+} */
 .image-desc{
     font-size: 16px;
     font-weight: bold;
